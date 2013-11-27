@@ -1,0 +1,6 @@
+sequence 1.0
+Copyright (C) 2013 
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Loc Le.

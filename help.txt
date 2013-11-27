@@ -1,0 +1,14 @@
+Usage: [OPTION]... LAST
+  or:  [OPTION]... FIRST LAST
+  or:  [OPTION]... FIRST INCREMENT LAST
+Print numbers from FIRST to LAST, in steps of INCREMENT.
+
+  -f, --format=FORMAT      use printf style floating-point FORMAT
+  -s, --separator=STRING   use STRING to separate numbers (default: \n)
+  -w, --equal-width        equalize width by padding with leading zeroes
+      --help     display this help and exit
+      --version  output version information and exit
+  -W —-words output the sequence as a single space separated
+  -p —-pad  output the sequence with elements padded on the left to be equal width
+  -P —-pad-spaces same as pad implement but pad is space
+
